@@ -13,8 +13,8 @@
 
 
 
-- 🎓 I'm a Systems Developer 
-- 💻 I’m currently working at [Parametrics.ag](https://parametrics.ag)
+- 🎓 I'm a Systems Developer.
+- 💻 I’m currently working at [Parametrics.ag](https://parametrics.ag).
 - Will be hustling with the new team! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  
 
