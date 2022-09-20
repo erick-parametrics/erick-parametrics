@@ -1,4 +1,4 @@
-# erick_n
+# erick-parametrics
 
  <!--
 **UjwalKandi/UjwalKandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
