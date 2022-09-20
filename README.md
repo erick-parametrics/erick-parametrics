@@ -9,7 +9,9 @@
 
 <h2 align="left">Hi there, I'm Erick</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<a href="[https://github.com/erick-parametrics)"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+
+
 
 - 🎓 I'm a Systems Developer 
 - 💻 I’m currently working at [Parametrics.ag](https://parametrics.ag)
