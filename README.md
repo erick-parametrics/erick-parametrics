@@ -15,9 +15,11 @@
 <!--  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
  -->
 - 🎓 I'm a passionate Systems Developer.
+- 💻 Ardent in problem solving and coding. 
 - 💻 I’m currently working at [Parametrics.ag](https://parametrics.ag).
 - ⚡ Excited with my new team! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I enjoy running, hiking, biking and eating! 
+- ⚡  Always curious individual who would like to make an impact in the AgriTech industry in solving real life problems.
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
