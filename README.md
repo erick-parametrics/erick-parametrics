@@ -18,7 +18,7 @@
 - 💻 Ardent in problem solving and coding. 
 - 💻 I’m currently working at [Parametrics.ag](https://parametrics.ag).
 - ⚡ Excited with my new team! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I enjoy running, hiking, biking and eating! 
+- 🌱 I enjoy outdoor activities! 
 - ⚡  Always curious individual who would like to make an impact in the AgriTech industry in solving real life problems.
 
 <div align="center">
