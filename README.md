@@ -11,11 +11,12 @@
 <a href="[https://github.com/erick-parametrics)"><img align='left' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 
-
+<div align="center">
 - 🎓 I'm a passionate Systems Developer.
 - 💻 I’m currently working at [Parametrics.ag](https://parametrics.ag).
 - ⚡ Excited with my new team! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I enjoy running, hiking, biking and eating! 
+</div>
 
 
 <div align="center">
