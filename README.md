@@ -8,8 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
  
-<!-- <a href="[https://github.com/erick-parametrics)"><img align='left' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
- -->
+
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
